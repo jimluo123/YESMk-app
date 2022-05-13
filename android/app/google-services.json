@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "190592056642",
+    "firebase_url": "https://beostore-a39cf.firebaseio.com",
+    "project_id": "beostore-a39cf",
+    "storage_bucket": "beostore-a39cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190592056642:android:97692c1746ce8e7f351cdb",
+        "android_client_info": {
+          "package_name": "com.inspireui.mstorecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190592056642-3fltgmkarnv4a8t9mmujt1q361mtu3jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inspireui.mstorecommerce",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "190592056642-85ei5ohpmo45untvdcs0s02vfdgrl2ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inspireui.mstorecommerce",
+            "certificate_hash": "e152e8bc41044b67e33a04f83247c20c2703b9b1"
+          }
+        },
+        {
+          "client_id": "190592056642-9v8ai3rn8k2n3dkc0u41tvvn3c8plc0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inspireui.mstorecommerce",
+            "certificate_hash": "0844b0a8c9b38232226b9865fd11b2e2aaa149fe"
+          }
+        },
+        {
+          "client_id": "190592056642-i61scjfu0gqcqda3dgaim3jq5qeqk46r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inspireui.mstorecommerce",
+            "certificate_hash": "67852f171e9d9bf4de2bbc71a2675f65cbbecd91"
+          }
+        },
+        {
+          "client_id": "190592056642-safd2s4ik4fs6s69hnrb719q8opj9fqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1waLIhW5StxVdyK_MX6bOMtYkaiVerQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190592056642-safd2s4ik4fs6s69hnrb719q8opj9fqg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190592056642-m5eh7bo3akegs2mi9qjkl7c0ojjk5fmo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inspireui.mstore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
